@@ -1,0 +1,7 @@
+PyMuPDF
+numpy
+opencv-python
+Pillow
+pytesseract
+fonttools
+rapidocr_onnxruntime
